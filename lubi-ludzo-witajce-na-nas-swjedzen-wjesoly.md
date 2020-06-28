@@ -1,14 +1,20 @@
 # Lubi ludźo, witajće 
 
 ```
+C        
 Lubi ludźo, witajće 
+F                    C
 na naš swjedźeń wjesoły!
+G    
 Zrudne mysle wostajće 
-před durjemi ležo wšě!
+                   C
+před durjemi ležo wšě! Haj, haj, haj, 
 
-R.: Haj, haj, haj, 
-dźens je swjedźeń,
+   F              
+|: Dźens je swjedźeń,
+C
 dźens je swjedźeń
-a tež jutře cyły dźeń!
+G           C
+a tež jutře cyły dźeń! :|
 
 ```
