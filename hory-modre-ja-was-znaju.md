@@ -1,12 +1,20 @@
 # Hory módre
 
 ```
+F        
 Hory módre, ja was znaju,
+C             F
 ja sym zaso w serbkim kraju,
+               
 hdźež mi kwětki rjeńšo kćěja,
+C                F
 z keluškow so směja.
-Młódno zelena ty strona, 
+   A                Dm
+|: Młódno zelena ty strona, 
+G                  C
 wokřewjace serbske hona,
+F
 wy sće moja domowina,
-radosć wutrobina!
+C             F
+radosć wutrobina! :|
 ```
