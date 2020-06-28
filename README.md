@@ -4,7 +4,7 @@
 * [Boleraz boleraz zeleny boleraz](boleraz-boleraz-zeleny-boleraz.md)
 * [Chcył něhdy w holi Mužakec](chcyl-nehdy-w-holi-muzakec.md)
 * [Dobry wjećor maćerka](dobry-wjecor-macerka.md)
-* [Ha Přijěł panik do delan](ha-prijel-panik-do-delan.md)
+* [Ha přijěł panik do delan](ha-prijel-panik-do-delan.md)
 * [Hančička Wowćerjowa](hancicka-wowcerjowa.md)
 * [Hanka budź wjesoła](hanka-budz-wjesola.md)
 * [Hdźež so módrja zelenja](hdzez-so-modrja-zelenja.md)
