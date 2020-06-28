@@ -1,6 +1,9 @@
 # Hanka, budź wjesoła
 
 ```
-Hanka, budź wjesoła, holičo rjane,
-runjež by njesyła zornješko žane.
+G                    D       D     D       D
+Hanka, budź wjesoła, holičo rjane, holičo rjane,
+   C         G          D        G
+|: runjež by njesyła zornješko žane. :|
+
 ```
