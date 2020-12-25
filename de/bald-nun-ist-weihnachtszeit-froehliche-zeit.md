@@ -1,8 +1,8 @@
 # Bald nun ist Weihnachtszeit, fröhliche Zeit;
 
 ```
-G            D               A         D
+D            A               E         A
 Bald nun ist Weihnachtszeit, fröhliche Zeit;
-   C           G              D          G
+   G           D              A          D
 |: Nun ist der Weihnachtsmann gar nimmer weit! :|
 ```
