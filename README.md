@@ -20,4 +20,12 @@
 * [Ženje tak rjenje njej było](zenje-tak-rjenje-njej-bylo.md)
 
 
+# Weihnachtslieder
+* [Sind die Lichter angezündet](de/sind-die-lichter-angezuendet.md)
+* [Vorfreude, schönste Freude](de/vorfreude-schoenste-Freude.md)
+* [Schneemann baun und Schneeballschlacht](de/schneemann-baun-und-schneeballschlacht.md)
+* [Der Heiland ist geboren](de/der-heiland-ist-geboren.md)
+* [Bald nun ist Weihnachtszeit, fröhliche Zeit](de/bald-nun-ist-weihnachtszeit-froehliche-zeit.md)
+
+
 
