@@ -23,11 +23,12 @@
 * [Sněženki padaja z njebja na nas](snezenki-padaja-z-njebja-na-nas.md)
 
 # Weihnachtslieder
-* [Sind die Lichter angezündet](de/sind-die-lichter-angezuendet.md)
-* [Vorfreude, schönste Freude](de/vorfreude-schoenste-Freude.md)
 * [Schneemann baun und Schneeballschlacht](de/schneemann-baun-und-schneeballschlacht.md)
-* [Der Heiland ist geboren](de/der-heiland-ist-geboren.md)
 * [Bald nun ist Weihnachtszeit, fröhliche Zeit](de/bald-nun-ist-weihnachtszeit-froehliche-zeit.md)
+* [Vorfreude, schönste Freude](de/vorfreude-schoenste-Freude.md)
+* [Sind die Lichter angezündet](de/sind-die-lichter-angezuendet.md)
+* [Der Heiland ist geboren](de/der-heiland-ist-geboren.md)
+
 
 
 
