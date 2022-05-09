@@ -1,0 +1,35 @@
+# Eště som sa neoženil
+
+```
+
+Ešče som sa neoženil už ma žena bije 
+
+
+A já som si prihotovil tri dubové kyje
+
+
+|: S jedným budem ženu bici a s tým druhým deti, deti, deti, moje deti 
+
+
+a s tým tretím kyja - kyjačiskom pôjdem na zálety. :|
+
+```
+
+
+```
+
+Eště som sa neoženil
+
+Ešče som sa neoženil už ma žena bije 
+A já som si prihotovil tri dubové kyje
+|: S jedným budem ženu bici a s tým druhým deti, deti, deti, moje deti 
+a s tým tretím kyja - kyjačiskom pôjdem na zálety. :|
+
+Ked pójdeš ty pojdzem aj ja pojdeme obajá. 
+Opýtame sa mlynára co to za novinu. 
+|: Kolečka sa otačaju, žitečko sa mele, mele, mele, mele, 
+moja milá sa vydáva, pojdzem na vesele.:|
+
+```
+
+
