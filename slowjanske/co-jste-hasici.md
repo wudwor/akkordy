@@ -2,14 +2,14 @@
 # Co jste hasiči
 
 ```
-
+C       G   C               G
 Co jste hasiči, co jste dělali,
 
-
+G                                                 C
 že jste nám ten pivo - pivo pivovárek shořet nechali.  
 
-
-že jste nám ten pivo - pivo pivovárek shořet nechali.  
+G                                                 C
+že jste nám ten pivo - pivo pivovárek shořet nechali.
 
 ```
 

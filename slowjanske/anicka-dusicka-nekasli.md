@@ -2,22 +2,22 @@
 # Anička dušička někašli
 
 ```
-
+G       D        G
 Anička, dušička, nekašli, 
 
-
+C      D      G
 aby ma u teba nenašli.
 
-
+G                      Am
 Ja ťa chytím, polubiť, aj postískať, 
 
-
+D                      G
 a pri tom si prevelice zavýskať.
 
-
+         D       G
 Zavýskam na celú dědinu, 
 
-
+C        D       G
 jakú mám šikovnú děvčinu.
 
 

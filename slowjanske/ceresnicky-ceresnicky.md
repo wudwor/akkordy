@@ -2,16 +2,16 @@
 # Čerešničky, čerešničky, čerešně
 
 ```
-
+C                         F  C
 Čerešničky, čerešničky, čerešně,
 
-
+                      G
 vy ste sa mě rosypaly na cestě.
 
-
+  D                           G
 [:Kdo vás najde, ten vás pozběrá,
 
-
+            C     Am    G    C
 já som mala včera večír frajíra.:]
 
 ```

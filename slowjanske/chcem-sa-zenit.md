@@ -2,12 +2,18 @@
 # Chcem sa ženiť
 
 ```
-
+Am              Gm Dm E     Am
 Chcem sa ženiť, peniažky šporovať,
 
+   C               G
+|: Chcem sa ženiť, peniažky šporovať,
 
+Am          E   
 mladej žene čižmičky kupovať.
 
+
+Am          Dm Am E    Am  
+mladej žene čižmičky kupovať. :|
 ```
 
 

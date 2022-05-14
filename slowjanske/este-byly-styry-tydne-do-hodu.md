@@ -1,16 +1,16 @@
 # Eště byly štyry týdně do hodú
 
 ```
-
+C                     Dm
 Eště byly štyry týdně do hodů, 
 
-
+G                   C
 už mě milá zakázala pit vodu
 
-
+                    Dm   F
 naléla ně červeného vínečka, 
 
-
+C           G        C
 že ona chce veselého synečka.
 
 ```

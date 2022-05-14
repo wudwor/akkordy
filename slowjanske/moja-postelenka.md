@@ -2,16 +2,16 @@
 # Moja postelenka
 
 ```
-
+G                                Am    D     G
 Moja postelenka, moja postelenka čista režna slama.
 
-
+                                 Am    D     G
 A ja nebožiatko a ja nebožiatko, lihám do ni sama.
 
-
+  G          Am     D          G
 |:Sama si ju stelu, sama si aj lehnu,
 
-
+                                    Am    D   G
 na teba, šuhajko, na teba, šuhajko, nikdy nezabudnu.:|
 
 ```

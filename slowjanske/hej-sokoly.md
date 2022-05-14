@@ -2,18 +2,30 @@
 # Hej Sokoły
 
 ```
-
+Em
 Hej, tam gdzieś znad czarnej wody
 
-
+H
 siada na koń kozak młody,
 
-
+Em
 czule żegna się z dziewczyną,
 
-
+H                Em   D
 jeszcze czulej z Ukrainą.
 
+
+G
+Hej, hej, hej sokoły
+
+D                    H
+omijajcie góry, lasy doły,
+
+Em
+dzwoń, dzwoń, dzwoń dzwoneczku,
+
+H           Em        D
+mój stepowy skowroneczku.
 ```
 
 

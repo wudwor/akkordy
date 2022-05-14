@@ -1,20 +1,20 @@
 # Hněvala sa mója máti
 
 ```
-
+Em         G
 Hněvala sa mója máti, 
 
-
+Em           G
 že ja chodím zá děvčaty,
 
+  C           G
+|:nehněváj sa moja stará máti,
 
-nehněváj sa moja stará máti,
-
-
+D           G
 šák za tebû chodívali taký.
 
-
-Vóla kédy dávno.
+Am   H    Em
+Vóla kédy dávno.:|
 
 ```
 

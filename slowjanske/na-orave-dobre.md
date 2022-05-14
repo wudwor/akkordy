@@ -2,13 +2,13 @@
 # Na Orave dobre
 
 ```
-
+  G                            D
 |:Na Orave dobre, na Orave zdravo,:|
 
-
+  C             G
 |:ale na Orave, ale na Orave,
 
-
+Am            D          G
 hej, švárnych chlapcov málo.:|
 
 ```

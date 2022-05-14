@@ -2,12 +2,14 @@
 # Ked sem išel z rána
 
 ```
-
+C              Dm    G         C
 Ked sem išel z rána, muzika mě hrála,
 
+  C                     
+|:všecky panny tancovaly,
 
-všecky panny tancovaly, enom moja stála.
-
+F                       G         C
+všecky panny tancovaly, enom moja stála.:|
 ```
 
 

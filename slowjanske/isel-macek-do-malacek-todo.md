@@ -2,10 +2,10 @@
 # Išiel Macek do Malacek
 
 ```
-
+Dm                               A
 Išiel Macek do Malacek šošovičku mlácic,
 
-
+Am         
 zabudol si cepy doma, musel sa on vrácic.
 
 

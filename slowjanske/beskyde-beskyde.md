@@ -1,13 +1,13 @@
 # Beskyde, Beskyde, kdo po tobě ide
 
 ```
-
+F             C                F
 Beskyde, Beskyde, kdo po tobě ide,
 
-
+B             C          F
 černooký bača ovečky zatáčá,
 
-
+B             C          F
 černooký bača ovečky zatáčá.
 
 ```

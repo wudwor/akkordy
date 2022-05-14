@@ -1,10 +1,10 @@
 # Ani já, ani ty robiť nebudzeme
 
 ```
-
+G             Em    Am  D
 Ani já ani ty robiť nebudzeme
 
-
+G                Am      D        C     D  G
 šedněme do koča, šedněme do koča, vozit sa budeme.
 
 ```

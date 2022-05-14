@@ -1,17 +1,17 @@
 # Jede šohaj z Vídňa
 
 ```
-
+F
 Jede šohaj z Vídňa,
 
-
+B          F
 má koníčka šimla,
 
+              Gm
+|: na něm retázečky,
 
-na něm retázečky,
-
-
-ej, ze samého stríbra.
+C             F
+ej, ze samého stríbra.:|
 
 ```
 
@@ -22,12 +22,12 @@ Jede šohaj z Vídňa
 Jede šohaj z Vídňa,
 má koníčka šimla,
 na něm retázečky,
-ej, ze samého stríbra.
+ej, ze samého stríbra.:|
 
 To je, Bože, to je
 potěšení moje,
-ej, když mně můj koníček,
-ej, preskakuje oje.
+:ej, když mně můj koníček,
+:ej, preskakuje oje.:|
 
 
 ```

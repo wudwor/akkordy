@@ -2,10 +2,10 @@
 # Ai jel, manu vieglu pratu
 
 ```
-
+G                   D                       G
 Ai jel, manu vieglu pratu, jauns apnemu ligavin`
 
-
+G       Am   D      G      Em    D      G
 Ai jel, manu vieglu pratu, jauns apnemu ligavin`
 
 ```

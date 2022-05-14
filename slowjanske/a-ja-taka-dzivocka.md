@@ -1,16 +1,16 @@
 # A ja taka dzivočka
 
 ```
-
+Gm        D     Gm  D          Gm
 A ja taka dzivočka, cingilingi bom, 
 
-
+Gm         D    Gm  D          Gm F
 rada vijem pirečka, cingilingi bom,
 
-
+   B           Cm   Gm   D
 |: rada vijem, rada dam, cingilingi bom, bom, bom,
 
-
+Gm         D    Gm   D          Gm
 i za kalap zakladam, cingilingi bom. :|
 
 

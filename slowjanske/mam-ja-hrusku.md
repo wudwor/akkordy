@@ -2,17 +2,17 @@
 # Mám ja hrušku
 
 ```
-
+Em            G
 Mám ja hrušku a nič na nej, 
 
-
+Em            G
 mám frajerku, čo ma po nej,
 
-
+  C            G
 |:ja ju ľúbim, ona mňa nie, 
 
-
-aké je to milovanie, aká je to láska?:|
+D         G          AmEm H     Em
+aké je to milovanie, aká  je to láska?:|
 
 ```
 

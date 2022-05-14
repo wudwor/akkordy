@@ -1,13 +1,16 @@
 # Na Kráľovej holi
 
 ```
+Gm               D                Gm F
+Na Kráľovej holi stojí strom zelený.
 
-|:Na Kráľovej holi stojí strom zelený.:|
+B                F                Gm D
+Na Kráľovej holi stojí strom zelený.
 
-
+  Cm                 Gm
 |:Vrch má naklonený, vrch má naklonený,
 
-
+                  D             Gm
 vrch má naklonený do Slovenskej zemi.:|
 
 ```
