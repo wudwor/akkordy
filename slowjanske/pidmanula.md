@@ -2,38 +2,38 @@
 # Pidmanula (ukrainski)
 
 ```
-
+Gm
 Ty kazala v ponedilok, 
 
-
+D
 pijdem´razom na barvinok,
 
-
+Gm               Cm  D           Gm      F
 ja pryšov tebe nema, pidmanula - pidvela.
 
 
+B
+Ty ž´ mene pidmanula, 
 
-R.: Ty ž´ mene pidmanula, 
-
-
+F
 ty ž´ mene pidvela,
 
-
+Gm
 ty ž´ mene molodoho 
 
-
+  D         Gm      F
 z uma razum izvela!
 
-
+B
 Ja ž´ tebe pidmanula, 
 
-
+F
 ja ž´ tebe pidvela,
 
-
+Gm
 ja ž´ tebe molodoho 
 
-
+  D         Gm
 z uma razum izvela!
 
 

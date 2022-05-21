@@ -2,15 +2,21 @@
 # Pokalíšku
 
 ```
-
+G          D      G              D      G
 Pokalíšku, pokalíšku, pokalíšku, pokalíšku.
 
-
+  G         C     D           G
 |:Pokalíšku dáme, pak si zazpíváme. 
 
-
+            D       G
 Po kalíšku, po kalíšku.:|
 
+
+  C         F         G          C
+|:Hoja hoj, hoja hoj, alkohol je síly zdroj.
+
+C         F         G          C
+Hoja hoj, hoja hoj, abstinenci boj!:|
 ```
 
 

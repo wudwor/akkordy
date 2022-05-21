@@ -2,13 +2,13 @@
 # Vínečko bílé
 
 ```
-
+F       C F          B     F
 Vínečko bílé, jsi od mej milej,
 
-
+             B       C
 budu ťa pít, co budu žít,
 
-
+F       C F
 vínečko bílé.
 
 

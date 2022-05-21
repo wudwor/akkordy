@@ -1,11 +1,11 @@
 # Pilo by sa pilo
 
 ```
+   Am           E             Am
+|: Pilo by sa pilo, keby bolo za čo. :|
 
-Pilo by sa pilo, keby bolo za čo.
-
-
-Slivovica, borovica, eště lepší terkélica.
+   F    C     F   C     Dm   Am    E    Am
+|: Slivovica, borovica, eště lepší terkélica. :|
 
 ```
 

@@ -2,19 +2,19 @@
 # Perina má štyry rožky
 
 ```
+   C
+|: Perina má štyry rožky, 
 
-Perina má štyry rožky, 
-
-
-pod perinú čtyry nožky. 
-
-
-
-R.: Ej javor javor, javor zelený, 
+           F     C  G
+pod perinú čtyry nožky. :|
 
 
-milej pod okénkom saděný. 
 
+   F               C
+|: Ej javor javor, javor zelený, 
+
+Dm        G       C
+milej pod okénkom saděný. :|
 ```
 
 

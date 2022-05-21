@@ -2,25 +2,25 @@
 # Rež, rež, rež
 
 ```
-
+C         G
 Rež, rež, rež, drobná rež, 
 
-
+                              C
 prečo sa ty moja milá, za mnú dreš. 
 
-
+          G
 Rež, rež, rež drobúčká, 
 
-
+                           C
 prečo si ty moja milá malučká.
 
 ...
 
+   C                  D             G
+|: Po potoce chodila, na kačeny volala, :|
 
-Po potoce chodila, na kačeny volala,
-
-
-kač kač kač kačena, nasypem ti zeleného jačmena.
+   C               G                            C
+|: kač kač kač kačena, nasypem ti zeleného jačmena. :|
 
 ```
 

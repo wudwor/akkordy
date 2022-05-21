@@ -1,17 +1,17 @@
 # Za tú horú za vysokú
 
 ```
+   G       H7 C
+|: Za tú horú za vysokú
 
-Za tú horú za vysokú
+G            D     G
+Mám frajárku černookú :|
 
-
-Mám frajárku černookú
-
-
+G
 Halagria hojá milá duša moja
 
-
-Mám frajárku černookú
+             Am   D G
+Mám frajárku černoo-kú
 
 ```
 

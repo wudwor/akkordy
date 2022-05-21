@@ -1,19 +1,23 @@
 # Tancuj, tancuj, vykrůcaj
 
 ```
-
+G               D
 Tancuj, tancuj, vykrůcaj, vykrůcaj,
 
-
+             G
 len mi pěcku nězrůcaj, nězrůcaj,
 
-
+Em          Am
 dobrá pěcka na zimu, na zimu,
 
-
+D          G
 nemá každý perinu, perinu.
 
+G         Am        D         G      D
+Tralalala tralalala tralalala lalala-lalala
 
+G         Am        D         G
+Tralalala tralalala tralalala lalalalalala
 ```
 
 

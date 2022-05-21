@@ -1,11 +1,14 @@
 # Už dozrála kukurička
 
 ```
-
+Am         D         G
 Už dozrála kukurička dočista
 
+Em         A         D
+Už dozrála kukurička dočista
 
-dočista, dočista, vyslúžil sem si dva ročky do ista
+   G    C6       G                D            G
+|: dočista, dočista, vyslúžil sem si dva ročky do ista :|
 
 ```
 

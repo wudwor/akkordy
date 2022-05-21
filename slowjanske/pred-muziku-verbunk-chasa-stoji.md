@@ -1,20 +1,17 @@
 # Pred muzikú verbuňk chasa stojí
 
 ```
-
+D           Em      A     D
 Pred muzikú verbuňk chasa stojí
 
-
-Pred muzikú verbuňk chasa stojí,
-
-
+D         Em       A    D
 moju milú namlúvat sa strojí.
 
+   G                         D
+|: Počkajte vy verbuňk chaso málo,
 
-Počkajte vy verbuňk chaso málo,
-
-
-já vám povím co sa ně dnes zdálo.
+             Em    A       D
+já vám povím co sa ně dnes zdálo. :|
 
 ```
 

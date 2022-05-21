@@ -1,12 +1,17 @@
 # Večeras me dobri ljudi
 
 ```
-
+G                D             C     D   G
 Večeras me dobri ljudi nemojte ništa pitati. 
 
-
+               D          C     D   G
 Neka suze tiho teku pa će manje boleti.
 
+   C             D       G
+|: Ne dirajte mi večeras uspomenu u meni, 
+
+                 D        C        D    G
+ne dirajte mi ravnicu jer ja ću se vratiti.:| 
 ```
 
 

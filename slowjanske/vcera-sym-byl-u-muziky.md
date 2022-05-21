@@ -1,10 +1,10 @@
-# xxx
+# Včera sem byl u muziky
 
 ```
-
+  C                       F             C
 |:Včera sem byl u muziky, u muziky celý den,:|
 
-
+  G             C       C7  Dm    F       G   C    
 |:nikde sem tam svoju milú, nikde sem tam neviděl.:|
 
 ```

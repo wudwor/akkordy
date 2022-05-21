@@ -3,15 +3,16 @@
 
 ```
 
+G             Am        D          G
 Pod tým našim okénečkem bývá velký mráz,
 
-
+              Am         D         G
 a v tej našej studánečce není vody zas
 
-
+G      Hm    C          D
 Veznem si já sekérečku, prerůbem tu studánečku,
 
-
+G             Am          D         G
 a v tej našej studánečce, bude vody zas.
 
 

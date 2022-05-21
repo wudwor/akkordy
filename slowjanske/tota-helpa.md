@@ -1,29 +1,29 @@
 # To ta Heľpa
 
 ```
-
+Em     Dm    Em     Dm  
 To ta Heľpa, to ta Heľpa, 
 
-
+Em    H     Em
 to je pekné mesto,
 
-
+        Dm    Em      Dm
 a v tej Heľpe a v tej Heľpe 
 
-
+Em       H        Em
 švarných chlapcov je sto.
 
+   C       D    G
+|: Koho je sto, toho je sto, 
 
-Koho je sto, toho je sto, 
-
-
+D            G H
 nie po mojej vôli,
 
-
+Em     Am      Em     Am
 ľen za jedním, ľen za jedním 
 
-
-srdiečko ma boli
+Em   H      Em
+srdiečko ma boli :|
 
 ```
 
