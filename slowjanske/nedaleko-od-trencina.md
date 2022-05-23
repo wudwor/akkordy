@@ -1,14 +1,15 @@
 # Nedaleko od Trenčína
 
 ```
-
+G                    Am          D   G
 Nedaleko od Trenčína bývá švarna Katarina.
 
 
-R.: Černé oči má, to musí být má milá,
+   G         D
+|: Černé oči má, to musí být má milá,
 
-
-taků frajárečku ja chcem, co má jméno Katarina.
+G                         Am          D   G
+taků frajárečku ja chcem, co má jméno Katarina. :|
 
 ```
 

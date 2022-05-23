@@ -5,15 +5,15 @@
 Dm                               A
 Išiel Macek do Malacek šošovičku mlácic,
 
-Am         
+Am         E          Dm    A     Dm
 zabudol si cepy doma, musel sa on vrácic.
 
 
-
+D                                                  G
 Hej, Macejko, Macejko-ko-ko-ko-ko, zahraj mi na cenko-ko-ko-ko-ko,
 
-
-na tú cenku strunu-nu-nu-nu-nu, hej, dzunu, dzunu-nu-nu-nu-nu.
+Gm              A               Gm                         D
+na tú cenku strunu-nu-nu-nu-nu, hej, dzu-nu, dzu-nu, nu-nu-nu-nu-nu-nu-nu.
 
 ```
 

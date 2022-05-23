@@ -1,10 +1,10 @@
 # Nepi Jano, nepi vodu
 
 ```
-
+Gm         D    Gm F  B          F      B
 Nepi Jano, nepi vodu, voda ti je len na škodu,
 
-
+B           F      B Gm  D               Gm  D
 napij sa ty radšej vína, to je dobrá medicína.
 
 ```

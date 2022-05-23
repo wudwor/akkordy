@@ -2,10 +2,10 @@
 # Nebola som veselá
 
 ```
+  G                             Em   Am D
+|:nebolo by od veci dat si esce poldeci:|
 
-|:nebolo by od veci dat si jedno poldeci:|
-
-
+  G              C   Am        D    G
 |:pol deci, aj deci, nebolo by od veci:|
 
 ```
@@ -15,7 +15,7 @@
 
 Nebola som veselá
 
-|:nebolo by od veci dat si jedno poldeci:|
+|:nebolo by od veci dat si esce poldeci:|
 |:pol deci, aj deci, nebolo by od veci:|
 
 |:Nebola som veselá od soboty večera,:|

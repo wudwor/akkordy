@@ -1,14 +1,14 @@
 # Padá, padá rosenka
 
 ```
-
+F     B    C    F   B             C   F
 Padá, padá rosénka, spaly by moje očénka.
 
-
+  B              Gm       
 |:Spaly by moje, spaly by aj tvoje, 
 
-
-spaly by ony oboje.:|
+C            F C  F
+spaly by ony o-bo-je.:|
 
 
 ```

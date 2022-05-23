@@ -2,13 +2,13 @@
 # Na těch panských lukách
 
 ```
-
+C                Dm     G             C
 Na těch panských lukách našel jsem já dukát,
 
-
+  C                  F        
 |:kdo mě ho promění, kdo mě ho promění, 
 
-
+G         C
 milá doma není.:|
 
 ```

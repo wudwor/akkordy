@@ -1,34 +1,74 @@
-# Ludowe Spěwy
+# Akordy za Ludowe Spěwy
 
-* [A ženje ja njejsym tak wjesoły boł](a-zenje-ja-njejsym-tak-wjesoly-bol.md)
-* [Boleraz boleraz zeleny boleraz](boleraz-boleraz-zeleny-boleraz.md)
-* [Chcył něhdy w holi Mužakec](chcyl-nehdy-w-holi-muzakec.md)
-* [Dobry wjećor maćerka](dobry-wjecor-macerka.md)
-* [Ha přijěł panik do delan](ha-prijel-panik-do-delan.md)
-* [Hančička Wowćerjowa](hancicka-wowcerjowa.md)
-* [Hanka budź wjesoła](hanka-budz-wjesola.md)
-* [Hdźež so módrja zelenja](hdzez-so-modrja-zelenja.md)
-* [Holčka sła a pozastała](holcka-sla-a-pozastala.md)
-* [Hory módre ja was znaju](hory-modre-ja-was-znaju.md)
-* [Katyržinka swěrna moja](katyrzinka-swerna-moja.md)
-* [Lubi ludźo witajće na nas swjedźeń wjesoły](lubi-ludzo-witajce-na-nas-swjedzen-wjesoly.md)
-* [Lubka lilija](lubka-lilija.md)
-* [Pod kulowom we holi](pod-kulowom-we-holi.md)
-* [Tu čerwjenu sukničku](tu-cerwjenu-suknicku.md)
-* [Wjesele dźensa](wjesele-dzensa.md)
-* [Wo ničo so ja njestaram](wo-nico-so-ja-njestaram.md)
-* [Ženje tak rjenje njej było](zenje-tak-rjenje-njej-bylo.md)
+prio:
 
-# Hodowne Spěwy
-* [Sněženki padaja z njebja na nas](snezenki-padaja-z-njebja-na-nas.md)
+* [este-si-ja.md](slowjanske/este-si-ja.md)
+* [nepi-jano-nepi-vodu.md](slowjanske/nepi-jano-nepi-vodu.md)
+* [slowjanske/naco-pojdem-domou.md](slowjanske/naco-pojdem-domou.md)
+* [pilo-by-sa-pilo.md](slowjanske/pilo-by-sa-pilo.md)
+* [vinecko-bile.md](slowjanske/vinecko-bile.md)
+* 
+* [tancuj-tancuj.md](slowjanske/tancuj-tancuj.md)
+* [na-tu-svatu-katerinu.md](slowjanske/na-tu-svatu-katerinu.md)
+* [co-jste-hasici.md](slowjanske/co-jste-hasici.md)
+* [nedaleko-od-trencina.md](slowjanske/nedaleko-od-trencina.md)
+* 
+* [rez-rez-rez.md](slowjanske/rez-rez-rez.md)
+* [na-tych-panskych-lukach.md](slowjanske/na-tych-panskych-lukach.md)
+* [chcem-sa-zenit.md](slowjanske/chcem-sa-zenit.md)
+* [este-som-sa-neozenil.md](slowjanske/este-som-sa-neozenil.md)
+* [na-kralovej-holi.md](slowjanske/na-kralovej-holi.md)
+* [ked-sem-isel-z-rana.md](slowjanske/ked-sem-isel-z-rana.md)
+* [isel-macek-do-malacek.md](slowjanske/isel-macek-do-malacek.md)
+* 
+* [tota-helpa.md](slowjanske/tota-helpa.md)
+* [perina-ma-styry-rozky.md](slowjanske/perina-ma-styry-rozky.md)
+* [moja-postelenka.md](slowjanske/moja-postelenka.md)
+* [pod-tym-nasim-okeneckem.md](slowjanske/pod-tym-nasim-okeneckem.md)
+* [este-vinko-nevykyslo.md](slowjanske/este-vinko-nevykyslo.md)
+* [pokalisku.md](slowjanske/pokalisku.md)
+* 
+* [sla-dziewecka.md](slowjanske/sla-dziewecka.md)
+* [hej-sokoly.md](slowjanske/hej-sokoly.md)
+* 
+* [anicka-dusicka-nekasli.md](slowjanske/anicka-dusicka-nekasli.md)
+* [ani-ja-ani-ty-robit-nebudzeme.md](slowjanske/ani-ja-ani-ty-robit-nebudzeme.md)
+* [ceresnicky-ceresnicky.md](slowjanske/ceresnicky-ceresnicky.md)
+* [na-orave-dobre.md](slowjanske/na-orave-dobre.md)
+* [na-tej-detve-studna-murovana.md](slowjanske/na-tej-detve-studna-murovana.md)
+* [nebola-som-vesela.md](slowjanske/nebola-som-vesela.md)
+* 
+* [mam-ja-hrusku.md](slowjanske/mam-ja-hrusku.md)
+* [uzdozrala-kukuricka.md](slowjanske/uzdozrala-kukuricka.md)
+* [kdo-ma-pocernu-galanku.md](slowjanske/kdo-ma-pocernu-galanku.md)
+* [xxhnjevala-sa-moja-matix.md](slowjanske/hnjevala-sa-moja-mati.md)
+* [jede-sohaj-z-vidna.md](slowjanske/jede-sohaj-z-vidna.md)
+* [este-byly-styry-tydne-do.md](slowjanske/este-byly-styry-tydne-do.md)
+* 
+* [zaspala-nevesta-v-straznickej-doline.md](slowjanske/zaspala-nevesta-v-straznickej-doline.md)
+* 
+* [vcera-sym-byl-u-muziky.md](slowjanske/vcera-sym-byl-u-muziky.md)
+* [beskyde-beskyde.md](slowjanske/beskyde-beskyde.md)
+* [za-tu-horu-za-vysoku.md](slowjanske/za-tu-horu-za-vysoku.md)
+* [nemelem-nemelem.md](slowjanske/nemelem-nemelem.md)
+* 
+* [veceras-me-dobre-ljudi.md](slowjanske/veceras-me-dobre-ljudi.md)
+* [ai-jel-manu-vieglu-pratu.md](slowjanske/ai-jel-manu-vieglu-pratu.md)
+* [pidmanula.md](slowjanske/pidmanula.md)
+* 
+* [za-mozem-je-bila-ruza.md](slowjanske/za-mozem-je-bila-ruza.md)
+* [pada-pada-rosenka.md](slowjanske/pada-pada-rosenka.md)
+* [kdyz-sem-ja-sel-od-svej-milej.md](slowjanske/kdyz-sem-ja-sel-od-svej-milej.md)
+* [ked-mi-prisla-karta-narukovat.md](slowjanske/ked-mi-prisla-karta-narukovat.md)
+* [ej-za-luzicki-polo.md](slowjanske/ej-za-luzicki-polo.md)
+* [v-pondelok-doma-nebudem.md](slowjanske/v-pondelok-doma-nebudem.md)
 
-# Weihnachtslieder
-* [Schneemann baun und Schneeballschlacht](de/schneemann-baun-und-schneeballschlacht.md)
-* [Bald nun ist Weihnachtszeit, fröhliche Zeit](de/bald-nun-ist-weihnachtszeit-froehliche-zeit.md)
-* [Vorfreude, schönste Freude](de/vorfreude-schoenste-Freude.md)
-* [Sind die Lichter angezündet](de/sind-die-lichter-angezuendet.md)
-* [Der Heiland ist geboren](de/der-heiland-ist-geboren.md)
 
+# TODO
 
-
+* melodiju pola Youtube pytac
+* dobru strukturu namakac (derje za citanje)
+* export:
+    * pdf
+    * html (rjana strona)
 
