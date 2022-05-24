@@ -8,7 +8,7 @@ Za mořem je bílá růža, já ju trhat nebudu,
 |:miloval sem švarné dívča, viec milovat nebudu:|
 
 
-Dm          A    Dm     C    Am   F
+Dm          A    Dm     C         F
 Utrhel bych tu růžičku, keby bola voňavá,
 
   F   B       C             A            Dm
