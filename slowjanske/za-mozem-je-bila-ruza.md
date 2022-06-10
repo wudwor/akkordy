@@ -4,8 +4,8 @@
 Dm                     Gm          Dm
 Za mořem je bílá růža, já ju trhat nebudu,
 
-  F   B       C             A            Dm
-|:miloval sem švarné dívča, viec milovat nebudu:|
+  F   B       C          A            Dm
+|:miloval sem tu Aničku, viec milovat nebudu:|
 
 
 Dm          A    Dm     C         F
@@ -20,7 +20,7 @@ Utrhel bych tu růžičku, keby bola voňavá,
 Za mořem je bílá růža
 
 Za mořem je bílá růža, já ju trhat nebudu,
-|: miloval sem švarné dívča, viec milovat nebudu :|
+|: miloval sem tu Aničku, viec milovat nebudu :|
 
 Utrhel bych tu růžičku, keby bola voňavá, 
 |: miloval bych tu Aničku, keby bola uprímná :|
