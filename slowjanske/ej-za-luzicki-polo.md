@@ -1,13 +1,13 @@
 # Ej, Zalužicko Pol'o
 
 ```
-   G       H     Em     A      D
+   C       E     Am     D      G
 |: Ej, zalužicki poľo s ružami okolo. :|
 
-   D           G             D           G
+   G           C             G           C
 |: Ej, ňehodno ku mne prísc, ej, ňehodno ku mne prisc,
 
-G     H        Em         A        D
+C       E      Am         D        G
 ej, ňehodno ku mňe prísc, pocešeňe mojo. :|
 
 ```
