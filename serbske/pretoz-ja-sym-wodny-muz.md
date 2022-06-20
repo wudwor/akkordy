@@ -14,10 +14,10 @@ Em              D      G      Em            H     Em
 sym tola přewšo sławny knjez, mjerzam ludźi přeco zas.
 
 
-Em     C            G D  Em      C             G D
+Em       C          G D  Em      C             G D
 Přetož ja sym wódny muž, bydlu w Čornym Halštrowje.
 
-Em      H          C           H 
+Em      H          C  Am       H 
 A radźu wam, zo mi tam, nichtó na pěc njelěze.
 
 Em C           G D  Em        C       G D
