@@ -1,31 +1,31 @@
 # Bruski Bruski
 
 ```
-
+Em              Am
 Bruski Bruski w garaži
 
-
+Em    H     Em
 steji mócna Bulldoga.
 
-
+Em              Am
 Sněh wón storka Wěteńcach,
 
-
+Em    H     Em      D
 štomy borka Tři Lipkach.
 
 
 Ref:
 
-
+C             G
 Dźensa w nocy nołoženja
 
+Am    D     G
+my budźemy 'tancowat'.
 
-my budzemy 'tancowat'.
-
-
+C             G   Em
 Dźensa w nocy nołoženja
 
-
+H             Em
 palenc dyrbiš naliwać!
 
 ```
@@ -39,7 +39,7 @@ Sněh wón storka Wěteńcach,
 
 Ref:
 Dźensa w nocy nołoženja
-my budzemy 'tancowat'.
+my budźemy 'tancowat'.
 Dźensa w nocy nołoženja
 palenc dyrbiš naliwać!
 
