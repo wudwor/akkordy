@@ -41,7 +41,7 @@ prio:
 * [mam-ja-hrusku.md](slowjanske/mam-ja-hrusku.md)
 * [uzdozrala-kukuricka.md](slowjanske/uzdozrala-kukuricka.md)
 * [kdo-ma-pocernu-galanku.md](slowjanske/kdo-ma-pocernu-galanku.md)
-* [xxhnjevala-sa-moja-matix.md](slowjanske/hnjevala-sa-moja-mati.md)
+* [hnjevala-sa-moja-mati.md](slowjanske/hnjevala-sa-moja-mati.md)
 * [jede-sohaj-z-vidna.md](slowjanske/jede-sohaj-z-vidna.md)
 * [este-byly-styry-tydne-do.md](slowjanske/este-byly-styry-tydne-do.md)
 * 
