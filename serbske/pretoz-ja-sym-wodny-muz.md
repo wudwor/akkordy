@@ -23,7 +23,7 @@ A radźu wam, zo mi tam, nichtó na pěc njelěze.
 Em C           G D  Em        C       G D
 We wodźe mjenujcy,  tam mojim kralestwje,
 
-Em             H      C            H    Em
+Em             H      C      Am    H    Em
 tam so wot was nichtó ze mnu měrić njemóže.
 
 ```
