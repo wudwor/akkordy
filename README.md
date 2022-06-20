@@ -64,6 +64,15 @@ prio:
 * [v-pondelok-doma-nebudem.md](slowjanske/v-pondelok-doma-nebudem.md)
 
 
+# za dumpancu
+* [na-cyrkwinskej-wezi.md](serbske/na-cyrkwinskej-wezi.md)
+* [na-traktoru-sedzi.md](serbske/na-traktoru-sedzi.md)
+* [lucija-lucija.md](serbske/lucija-lucija.md)
+* [ja-mam-krasnu-zahrodku.md](serbske/ja-mam-krasnu-zahrodku.md)
+* [bruski-bruski.md](serbske/bruski-bruski.md)
+* [pretoz-ja-sym-wodny-muz.md](serbske/pretoz-ja-sym-wodny-muz.md)
+* [z-tobu-chcu-ja-byc.md](serbske/z-tobu-chcu-ja-byc.md)
+
 # TODO
 
 * melodiju pola Youtube pytac
