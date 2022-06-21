@@ -72,6 +72,7 @@ prio:
 * [bruski-bruski.md](serbske/bruski-bruski.md)
 * [pretoz-ja-sym-wodny-muz.md](serbske/pretoz-ja-sym-wodny-muz.md)
 * [z-tobu-chcu-ja-byc.md](serbske/z-tobu-chcu-ja-byc.md)
+* [nasa-sekretarka.md](serbske/nasa-sekretarka.md) 
 
 # TODO
 
