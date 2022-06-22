@@ -5,7 +5,7 @@ Gm            C
 Na traktoru sedźi
 
 F            B
-Za holčku so žedźi
+za holčku so žedźi
 
 Es   F     B  F  B
 Wěteńcy ta holčička
@@ -19,7 +19,7 @@ je `ho zakuzłała.
 ```
 
 Na traktoru sedźi
-Za holčku so žedźi
+za holčku so žedźi
 Wěteńcy ta holčička
 je `ho zakuzłała.
 
