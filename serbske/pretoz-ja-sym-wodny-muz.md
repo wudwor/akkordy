@@ -13,7 +13,7 @@ Tež hdyž moja drasta kapa, wona je mokra cyły čas,
 Em              D      G      Em            H     Em
 sym tola přewšo sławny knjez, mjerzam ludźi přeco zas.
 
-
+Ref.
 Em       C          G D  Em      C             G D
 Přetož ja sym wódny muž, bydlu w Čornym Halštrowje.
 
