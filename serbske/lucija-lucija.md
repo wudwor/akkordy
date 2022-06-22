@@ -14,7 +14,7 @@ Dm              Am            E             Am Hm C A
 Na kraju kraju, rjanym kraju, z lubku sym zelenym haju.
 
 Dm             Am           E             Am
-Krok po kroku, tu pri boku, wostań tu při boku.
+Krok po kroku, tu při boku, wostań tu při boku.
 
 
 ```
@@ -27,7 +27,7 @@ Lucija Lucija, kiž tak rjenje smejkota,
 woženi so tuta holca, kiž najrjenša była.
 
 Ref: Na kraju kraju, rjanym kraju, z lubku sym zelenym haju.
-Krok po kroku, tu pri boku, wostań tu při boku.
+Krok po kroku, tu při boku, wostań tu při boku.
 
 A my tu Luciju jazamy jazamy
 a my našu fajnu holcu z Łužicy njedamy.
