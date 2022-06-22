@@ -36,9 +36,10 @@ Ja mam krasnu zahrodku
 Ja mam krasnu zahrodku 
 wusył sym tam róžičku.
 
-Refr.: |: Maći luba, budźe złe, 
+Refr.:
+Maći luba, budźe złe, 
 hdyž sej wón mje njewozmje, 
-maći luba, luba maći budźe złe.:|
+maći luba, luba maći budźe złe.
 
 Róžička je zeschadźała, 
 lubka sama po nju šła.
