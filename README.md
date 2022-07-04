@@ -73,6 +73,8 @@ prio:
 * [pretoz-ja-sym-wodny-muz.md](serbske/pretoz-ja-sym-wodny-muz.md)
 * [z-tobu-chcu-ja-byc.md](serbske/z-tobu-chcu-ja-byc.md)
 * [nasa-sekretarka.md](serbske/nasa-sekretarka.md) 
+* [hanka-hanka-ja-ci-lubim.md](serbske/hanka-hanka-ja-ci-lubim.md) 
+
 
 # TODO
 
