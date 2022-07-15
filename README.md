@@ -4,7 +4,7 @@ prio:
 
 * [este-si-ja.md](slowjanske/este-si-ja.md)
 * [nepi-jano-nepi-vodu.md](slowjanske/nepi-jano-nepi-vodu.md)
-* [slowjanske/naco-pojdem-domou.md](slowjanske/naco-pojdem-domou.md)
+* [naco-pojdem-domou.md](slowjanske/naco-pojdem-domou.md)
 * [pilo-by-sa-pilo.md](slowjanske/pilo-by-sa-pilo.md)
 * [vinecko-bile.md](slowjanske/vinecko-bile.md)
 * 
