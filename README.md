@@ -43,7 +43,7 @@ prio:
 * [kdo-ma-pocernu-galanku.md](slowjanske/kdo-ma-pocernu-galanku.md)
 * [hnjevala-sa-moja-mati.md](slowjanske/hnjevala-sa-moja-mati.md)
 * [jede-sohaj-z-vidna.md](slowjanske/jede-sohaj-z-vidna.md)
-* [este-byly-styry-tydne-do.md](slowjanske/este-byly-styry-tydne-do.md)
+* [este-byly-styry-tydne-do.md](slowjanske/este-byly-styry-tydne-do-hodu.md)
 * 
 * [zaspala-nevesta-v-straznickej-doline.md](slowjanske/zaspala-nevesta-v-straznickej-doline.md)
 * 
