@@ -74,6 +74,7 @@ prio:
 * [z-tobu-chcu-ja-byc.md](serbske/z-tobu-chcu-ja-byc.md)
 * [nasa-sekretarka.md](serbske/nasa-sekretarka.md) 
 * [hanka-hanka-ja-ci-lubim.md](serbske/hanka-hanka-ja-ci-lubim.md) 
+* [2022-08-19-dumpanca-annamaria-a-michal.md](serbske/2022-08-19-dumpanca-annamaria-a-michal.md)
 
 
 # TODO
