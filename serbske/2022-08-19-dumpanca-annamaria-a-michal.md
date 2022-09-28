@@ -54,7 +54,7 @@ Zbožo přejemy.
             Gm
 do lěsa wón jědźe. :|
 
-   Gm        Cm           F
+   Gm  G  G7 Cm           F
 |: Tam je ju namakał, namakał,
 
            Gm
