@@ -75,6 +75,8 @@ prio:
 * [nasa-sekretarka.md](serbske/nasa-sekretarka.md) 
 * [hanka-hanka-ja-ci-lubim.md](serbske/hanka-hanka-ja-ci-lubim.md) 
 * [2022-08-19-dumpanca-annamaria-a-michal.md](serbske/2022-08-19-dumpanca-annamaria-a-michal.md)
+* [2024-07-11-narodniny-jan-brezan](serbske/2024-07-11-narodniny-jan-brezan.md)
+* [2024-07-19-narodniny-jurij-smola](serbske/2024-07-19-narodniny-jurij-smola.md)
 
 
 # TODO
