@@ -1,23 +1,30 @@
-# Wulka Party zez Fizzante
+# Wulka Party zez Frizzante
 
 
-TODO
 ```
+A            D
 Jako dźěćo z traktorom je hrał
 
+E                              A
 a z nim je Jan tež tójšto přeworał.
 
+A           D
 Haj w pěsku so wón derje ćuje
 
+E                        A
 tohodla tež dźensa přihotuje:
 
+Ref:
+A                    D
+Wulku party zez Frizzante
 
-Wulku party zez Fizzante
+E                  A
+Volleybul na běłym štranće.
 
-Volleybul na běłym stranće.
-
+                   D
 Hdyž so nalije šampagna
 
+E                  A
 swjećimy do běłeho rana.
 
 ```
@@ -36,10 +43,10 @@ Volleybul na běłym stranće.
 Hdyž so nalije šampagna
 swjećimy do běłeho rana.
 
-2) Wo jednej wěcce Jan tón soni
+2) Wo jednej wěcce Jan tón hisće soni
 ale kak ma rozkłasć doma swojim?
 Beach volleybuluowe hrajnišćo sej přeje
-tu w zahrodźe hdźež so wšitko kčěje.
+tu w zahrodźe hdźež wšitko rjenje kčěje.
 ```
 
 * https://www.youtube.com/watch?v=qAdIPAdzjvY
