@@ -77,6 +77,7 @@ prio:
 * [2022-08-19-dumpanca-annamaria-a-michal.md](serbske/2022-08-19-dumpanca-annamaria-a-michal.md)
 * [2024-07-11-narodniny-jan-brezan](serbske/2024-07-11-narodniny-jan-brezan.md)
 * [2024-07-19-narodniny-jurij-smola](serbske/2024-07-19-narodniny-jurij-smola.md)
+* [2024-07-26-dumpanca-julia-a-syman](serbske/2024-07-26-dumpanca-julia-a-syman.md)
 
 
 # TODO
