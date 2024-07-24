@@ -9,7 +9,7 @@ Hej, bystra woda, bystra wodzicka,
 F              D      G
 pytało dziewce o Janicka.
 
-  G                 
+  D                 G
 |:Hej lesie ciemny, wirsku zielony,
 
 C              D    G
@@ -41,7 +41,7 @@ hej, za owiecki, za barany.:|
 Gm
 Z góry jedź, z góry jedź,
 
-Gm               Cm     F     B
+Gm               Cm     F     Bb
 Konika ni hamuj, konika ni hamuj.
 
 Cm                       Gm
@@ -68,7 +68,7 @@ a wam gratuluja. :|
 Tuja, gratuluja,
 pomazki namaza,
 pomazki namaza,
-:| ćeta Beata, wuj Tomašo wo
+|: ćeta Beata, wuj Tomašo-wo
 winko so postara. :|
 
 Postara, postara,
@@ -80,8 +80,8 @@ gości na Łużycach" :|
 Łužica, Łužica,	
 rjenje dźens zaspěwa,
 rjenje dźens zaspěwa.
-Słowjanske pěsnički, haj z instrumentami,
-wutroba zarejwa!
+|: Słowjanske pěsnički, haj z instrumentami,
+wutroba zarejwa! :|
 
 Zarejwa, zarejwa,
 Syman a Julija,
@@ -90,5 +90,5 @@ Syman a Julija.
 ??????????????? :|
 ```
 
-
-* https://www.youtube.com/watch?v=YZBepW0SY5s
+* https://www.youtube.com/watch?v=lyYtqPrZI28
+* https://www.youtube.com/watch?v=TAJpO2BsuhY
