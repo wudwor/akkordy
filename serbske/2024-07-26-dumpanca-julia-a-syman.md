@@ -1,5 +1,3 @@
-# Jurij Jurij fajfu kuri
-
 # Hej bystra woda
 
 ```
