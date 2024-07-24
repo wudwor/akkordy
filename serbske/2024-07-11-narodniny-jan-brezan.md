@@ -30,7 +30,7 @@ swjećimy do běłeho rana.
 ```
 
 
-Wulku party zez Fizzante
+Wulku party zez Frizzante
 
 ```
 1) Jako dźěćo z traktorom je hrał
@@ -38,7 +38,7 @@ a z nim je Jan tež tójšto přeworał.
 Haj w pěsku so wón derje ćuje
 tohodla tež dźensa přihotuje:
 
-Ref: Wulku party zez Fizzante
+Ref: Wulku party zez Frizzante
 Volleybul na běłym stranće.
 Hdyž so nalije šampagna
 swjećimy do běłeho rana.
