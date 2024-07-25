@@ -4,7 +4,7 @@
 G 
 Hej, bystra woda, bystra wodzicka,
 
-F              D      G
+C              D      G
 pytało dziewce o Janicka.
 
   D                 G
