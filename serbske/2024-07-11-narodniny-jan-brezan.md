@@ -68,7 +68,7 @@ Hdyž so nalije šampagna
 swjećimy do běłeho rana.
 
 2) Wo jednej wěcce ja pak hisće sonim
-ale kak ma rozkłasć doma swojim?
-Beach volleybuluowe hrajnišćo sej ja přeju
-w zahrodźe hdźež kwětki rjenje kčěja.
+ale kak mam rozkłasć doma swojim?
+Beach volleybuluowe hrajnišćo sej přeju
+w zahrodźe hdźež kwětki rjenje kčěju.
 ```
