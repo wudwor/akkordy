@@ -78,6 +78,7 @@ prio:
 * [2024-07-11-narodniny-jan-brezan](serbske/2024-07-11-narodniny-jan-brezan.md)
 * [2024-07-19-narodniny-jurij-smola](serbske/2024-07-19-narodniny-jurij-smola.md)
 * [2024-07-26-dumpanca-julia-a-syman](serbske/2024-07-26-dumpanca-julia-a-syman.md)
+* [2024-08-08-narodniny-volkmar](serbske/2024-08-08-narodniny-volkmar.md)
 
 
 # TODO
