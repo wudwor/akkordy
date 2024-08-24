@@ -1,4 +1,4 @@
-# Povedz, kde si včera bol - TODO
+# Povedz, kde si včera bol
 
 ```
    E                    A
@@ -47,5 +47,5 @@ Ja si ťa zoberiem:|
 ```
 
 source:
-* https://www.youtube.com/watch?v=vEnc4ERw_jw
-* https://www.youtube.com/watch?v=XiTc-hKT2ww
+* pop: https://www.youtube.com/watch?v=vEnc4ERw_jw
+* cimbal: https://www.youtube.com/watch?v=XiTc-hKT2ww
