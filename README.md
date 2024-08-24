@@ -62,6 +62,10 @@ prio:
 * [ked-mi-prisla-karta-narukovat.md](slowjanske/ked-mi-prisla-karta-narukovat.md)
 * [ej-za-luzicki-polo.md](slowjanske/ej-za-luzicki-polo.md)
 * [v-pondelok-doma-nebudem.md](slowjanske/v-pondelok-doma-nebudem.md)
+*
+* 2024
+* [povedz-kde-si-vcera-bol.md](slowjanske/povedz-kde-si-vcera-bol.md)
+* [ona-lubi-pomarance.md](slowjanske/ona-lubi-pomarance.md)
 
 
 # za dumpancu
