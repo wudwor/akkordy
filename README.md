@@ -85,6 +85,20 @@ prio:
 * [2024-08-08-narodniny-volkmar](serbske/2024-08-08-narodniny-volkmar.md)
 
 
+# adventne (nemske)
+* [o-tannenbaum](nemske/o-tannenbaum.md)
+* [schneefloeckchen-weissroeckchen](nemske/schneefloeckchen-weissroeckchen.md)
+* [lasst-uns-froh-und-munter-sein](nemske/lasst-uns-froh-und-munter-sein.md)
+* [vorfreude-schoenste-freude](nemske/vorfreude-schoenste-freude.md)
+* [suesser-die-glocken-nie-klingen](nemske/suesser-die-glocken-nie-klingen.md)
+* [leise-rieselt-der-schnee](nemske/leise-rieselt-der-schnee.md)
+* [sind-die-lichter-angezuendet](nemske/sind-die-lichter-angezuendet.md)
+* [bald-nun-ist-weihnachtszeit-froehliche-zeit](nemske/bald-nun-ist-weihnachtszeit-froehliche-zeit.md)
+* [eine-muh-eine-maeh-eine-taeteraetaetae](nemske/eine-muh-eine-maeh-eine-taeteraetaetae.md)
+* [schneemann-baun-und-schneeballschlacht](nemske/schneemann-baun-und-schneeballschlacht.md)
+* [der-heiland-ist-geboren](nemske/der-heiland-ist-geboren.md)
+* [in-der-weihnachtsbaeckerei](nemske/in-der-weihnachtsbaeckerei.md)
+
 # TODO
 
 * melodiju pola Youtube pytac
