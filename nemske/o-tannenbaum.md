@@ -9,7 +9,7 @@ wie grün sind deine Blätter!
 Du grünst nicht nur zur Sommerzeit,
                               F
 nein, auch im Winter, wenn es schneit.
-C  F                    C F
+C F           C F
 O Tannenbaum, o Tannenbaum,
     C                   F
 wie grün sind deine Blätter!

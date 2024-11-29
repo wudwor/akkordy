@@ -3,16 +3,12 @@
 ```
 D
 Lasst uns froh und munter sein
-
 A
 Und uns recht von Herzen freun!
-
 D  A    D  A    D
 Lustig, lustig, tra la la la la!
-
 D        A             D
 Bald ist Nikolausabend da,
-
 D        A             D
 Bald ist Nikolausabend da!
 ```

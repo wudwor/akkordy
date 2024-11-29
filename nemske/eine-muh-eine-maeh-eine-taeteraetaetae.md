@@ -15,7 +15,7 @@ Außer Kuchenzeug, bringt noch der Gute Euch:
 
 C    F                   Gm
 Eine Muh, eine Mäh, eine Täterätätä
-      C         F
+     C          F
 Eine Tute, eine Rute,
                           Gm
 eine Hopp-hopp-hopp-hopp, Diedeldadeldum,

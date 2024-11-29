@@ -1,7 +1,7 @@
 # Der Heiland ist geboren
 
 ```
-    G             G  D
+    D             G  D
 Der Heiland ist geboren,
      A        D       A
 Freu dich, du Christenheit;
