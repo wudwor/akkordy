@@ -1,17 +1,17 @@
 # O Tannenbaum
 
 ```
-C F           C F
+D G           D G
 O Tannenbaum, o Tannenbaum,
-    C                   F
+    D                   G
 wie grün sind deine Blätter!
-                B       C
+                C       D
 Du grünst nicht nur zur Sommerzeit,
-                              F
+                              G
 nein, auch im Winter, wenn es schneit.
-C F           C F
+D G           D G
 O Tannenbaum, o Tannenbaum,
-    C                   F
+    D                   G
 wie grün sind deine Blätter!
 ```
 
