@@ -105,4 +105,3 @@ prio:
 * export:
     * pdf
     * html (rjana strona)
-
